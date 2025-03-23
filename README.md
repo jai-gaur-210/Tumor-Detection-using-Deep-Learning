@@ -1,5 +1,3 @@
-Loading and Preparing Data:
-
 The code loads brain tumor images from specified folders for training and testing.
 It resizes these images to a fixed size (224x224 pixels).
 The images are then stored in arrays (X_train) along with their corresponding labels (Y_train).
